@@ -7,6 +7,6 @@ vm.$watch( expOrFn, callback, [options] )
  {Object} [options]
  {boolean} [options.deep]
 	 {boolean} [options.immediate]
-```
+```javascript
 ${1|this,vm|}.\$watch(${2:expOrFn}, ${3:callback}${4:, [options]})
 ```
