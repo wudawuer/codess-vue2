@@ -1,14 +1,6 @@
-## mapstate
-#### Vue MapState
-map getters inside a vue component
+## mapState
+#### mapState
+just a word
 ```
-import { mapState } from 'vuex';
-
-export default {
-	computed: {
-		...mapState([
-			${1:'nameOfState'},
-		])
-	},
-};
+mapState
 ```

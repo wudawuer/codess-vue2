@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const nReg = /^v/;
+const nReg = /^/;
 
 /**
  * Windows 系统中的保留设备名称，不能用作文件或文件夹的名称

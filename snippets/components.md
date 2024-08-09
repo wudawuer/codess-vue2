@@ -1,8 +1,6 @@
 ## components
-#### Vue Import into the Component
-Import one component into another, within export statement
+#### components
+just a word
 ```
-components: {
-	${1:New},
-},
+components
 ```

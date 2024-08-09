@@ -1,8 +1,8 @@
-## beforemount
-#### Vue Lifecycle beforeMount
-beforeMount lifecycle method
+## beforeMount
+#### beforeMount
+Type: Function.
 ```
-beforeMount () {
-	${0};
+beforeMount() {
+	$1
 },
 ```

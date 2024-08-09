@@ -1,14 +1,6 @@
-## mapgetters
-#### Vue MapGetters
-mapgetters inside a vue component
+## mapGetters
+#### mapGetters
+just a word
 ```
-import { mapGetters } from 'vuex';
-
-export default {
-	computed: {
-		...mapGetters([
-			${1:'nameOfGetter'},
-		])
-	},
-};
+mapGetters
 ```

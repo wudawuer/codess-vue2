@@ -1,8 +1,8 @@
 ## destroyed
-#### Vue Lifecycle destroyed
-destroyed lifecycle method
+#### destroyed
+Type: Function.
 ```
-destroyed () {
-	${0};
+destroyed() {
+	$1
 },
 ```

@@ -1,10 +1,10 @@
 ## data
-#### Vue Data
-Vue Component Data
+#### data
+The data object for the Vue instance.
 ```
 data() {
 	return {
-		${1:key}: ${2:value}
+		$1
 	}
-},
+},$0
 ```

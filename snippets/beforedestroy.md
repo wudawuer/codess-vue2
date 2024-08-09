@@ -1,8 +1,8 @@
-## beforedestroy
-#### Vue Lifecycle beforeDestroy
-beforeDestroy lifecycle method
+## beforeDestroy
+#### beforeDestroy
+Type: Function.
 ```
-beforeDestroy () {
-	${0};
+beforeDestroy() {
+	$1
 },
 ```

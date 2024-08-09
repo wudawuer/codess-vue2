@@ -1,14 +1,6 @@
-## mapmutations
-#### Vue MapMutations
-mapmutations inside a vue component
+## mapMutations
+#### mapMutations
+just a word
 ```
-import { mapMutations } from 'vuex';
-
-export default {
-	methods: {
-		...mapMutations([
-			${1:'nameOfMutation'}, //also supports payload `this.nameOfMutation(amount)` 
-		])
-	},
-};
+mapMutations
 ```

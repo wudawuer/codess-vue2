@@ -1,8 +1,8 @@
-## beforeupdate
-#### Vue Lifecycle beforeUpdate
-beforeUpdate lifecycle method
+## beforeUpdate
+#### beforeUpdate
+Type: Function.
 ```
-beforeUpdate () {
-	${0};
+beforeUpdate() {
+	$1
 },
 ```

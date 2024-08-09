@@ -1,8 +1,8 @@
 ## updated
-#### Vue Lifecycle updated
-updated lifecycle method
+#### updated
+Type: Function.
 ```
-updated () {
-	${0};
+updated() {
+	$1
 },
 ```

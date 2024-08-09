@@ -1,8 +1,8 @@
 ## created
-#### Vue Lifecycle created
-created lifecycle method
+#### created
+Type: Function.
 ```
-created () {
-	${0};
+created() {
+	$1
 },
 ```

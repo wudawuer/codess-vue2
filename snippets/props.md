@@ -1,11 +1,6 @@
 ## props
-#### Vue Props with Default
-Vue Props with Default
+#### props
+A list/hash of attributes that are exposed to accept data from the parent component. 
 ```
-props: {
-	${1:propName}: {
-		type: ${2:Number},
-		default: ${0}
-	},
-},
+props
 ```

@@ -1,10 +1,8 @@
 ## computed
-#### Vue Computed
-computed value
+#### computed
+Computed properties to be mixed into the Vue instance. 
 ```
 computed: {
-	${1:name}() {
-		return this.${2:data} ${0}
-	}
-},
+	$1
+},$0
 ```

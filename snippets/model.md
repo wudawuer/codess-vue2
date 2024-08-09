@@ -1,6 +1,6 @@
 ## model
-#### Vue v-model Directive
-v-model directive
+#### model
+just a word
 ```
-<input v-model="${1:data}" type="text" />
+model
 ```

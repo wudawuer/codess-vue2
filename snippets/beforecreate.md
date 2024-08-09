@@ -1,8 +1,8 @@
-## beforecreate
-#### Vue Lifecycle beforeCreate
-beforeCreate lifecycle method
+## beforeCreate
+#### beforeCreate
+Type: Function.
 ```
-beforeCreate () {
-	${0};
+beforeCreate() {
+	$1
 },
 ```

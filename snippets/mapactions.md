@@ -1,14 +1,6 @@
-## mapactions
-#### Vue MapActions
-mapactions inside a vue component
+## mapActions
+#### mapActions
+just a word
 ```
-import { mapActions } from 'vuex';
-
-export default {
-	methods: {
-		...mapActions([
-			${1:'nameOfAction'}, //also supports payload `this.nameOfAction(amount)` 
-		])
-	},
-};
+mapActions
 ```

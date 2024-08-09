@@ -4,4 +4,4 @@ Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进
 
 Vue 2 已经终止支持且不再维护。
 
-代码片段来源 https://github.com/sdras/vue-vscode-snippets/blob/main/snippets
+代码片段来源 https://github.com/hollowtree/vscode-vue-snippets/tree/master/snippets

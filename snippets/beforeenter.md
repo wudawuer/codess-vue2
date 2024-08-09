@@ -1,8 +1,8 @@
-## beforeenter
-#### Vue Router beforeEnter
-Vue Router per-route guard beforeEnter
+## beforeEnter
+#### beforeEnter
+beforeEnter: (to, from, next) => { }
 ```
-beforeEnter(to, from, next) {
-	${1:next();}
-},
+beforeEnter: (to, from, next) => {
+	${1:// ...}
+}
 ```

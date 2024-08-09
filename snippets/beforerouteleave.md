@@ -1,8 +1,8 @@
-## beforerouteleave
-#### Vue Router beforeRouteLeave
-Vue Router component guards beforeRouteLeave
+## beforeRouteLeave
+#### beforeRouteLeave
+beforeRouteLeave (to, from, next) { }
 ```
-beforeRouteLeave(to, from, next) {
-	${1:next();}
-},
+beforeRouteLeave (to, from, next) {
+	${1:// ...}
+}
 ```

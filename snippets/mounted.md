@@ -1,8 +1,8 @@
 ## mounted
-#### Vue Lifecycle mounted
-mounted lifecycle method
+#### mounted
+Type: Function.
 ```
-mounted () {
-	${0};
+mounted() {
+	$1
 },
 ```
